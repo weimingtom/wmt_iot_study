@@ -8,3 +8,6 @@ https://github.com/microbit-foundation/microbit-blue
 http://spotpear.cn/public/index/study/detail/id/398.html  
 https://www.waveshare.net/wiki/KitiBot_for_micro:bit  
 https://www.waveshare.net/wiki/Chapter_8_of_KitiBot_for_Micro:bit  
+
+## RC522  
+* MFRC522  
