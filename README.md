@@ -51,9 +51,15 @@ Embedfire-WiFi-esp/ebf_wifi_esp8266_code，在gitee和github上都有，
 ## open62541  
 https://github.com/open62541/open62541  
 
-## MQTT  
+## MQTT broker    
 * MQTTX  
+https://github.com/emqx/MQTTX  
 Download the MQTTX server software and install it on the computer, and then configure the MQTT server.  
 https://wiki.seeedstudio.com/Use_MQTT_to_remotely_light_up_LED_lights/  
 Wio RP2040  
-* 
+https://wiki.seeedstudio.com/Wio_RP2040_Module_Build-in_Wireless_2.4G/  
+
+* mosquitto  
+https://github.com/eclipse/mosquitto  
+kwswitch  
+https://github.com/kerwincui/kwswitch  
