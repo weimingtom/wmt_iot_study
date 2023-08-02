@@ -74,6 +74,6 @@ https://blog.csdn.net/cnbeta1993/article/details/79066919
 https://augix.me/archives/5804  
 
 * smart-swimmingpool  
-https://github.com/smart-swimmingpool
+https://github.com/smart-swimmingpool  
 Project Smart Swimming Pool  
 https://medium.com/diy-my-smart-home/project-smart-swimmingpool-4c40eb6741f6  
