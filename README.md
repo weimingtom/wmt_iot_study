@@ -67,6 +67,6 @@ https://github.com/eclipse/mosquitto
 kwswitch  
 https://github.com/kerwincui/kwswitch  
 
-* OpenHAB+MQTT+NodeMCU实现远程控制
+* OpenHAB+MQTT+NodeMCU实现远程控制  
 https://blog.csdn.net/cnbeta1993/article/details/79066919  
 
