@@ -58,8 +58,15 @@ Download the MQTTX server software and install it on the computer, and then conf
 https://wiki.seeedstudio.com/Use_MQTT_to_remotely_light_up_LED_lights/  
 Wio RP2040  
 https://wiki.seeedstudio.com/Wio_RP2040_Module_Build-in_Wireless_2.4G/  
+EMQ, EMQTT  
+http://emqtt.com/downloads  
+https://www.emqx.com/zh  
 
 * mosquitto  
 https://github.com/eclipse/mosquitto  
 kwswitch  
 https://github.com/kerwincui/kwswitch  
+
+* OpenHAB+MQTT+NodeMCU实现远程控制
+https://blog.csdn.net/cnbeta1993/article/details/79066919  
+
