@@ -72,3 +72,8 @@ https://blog.csdn.net/cnbeta1993/article/details/79066919
 
 * 自己做一个智能家居系统：NodeMCU+MQTT+OpenHAB改造灯开关篇  
 https://augix.me/archives/5804  
+
+* smart-swimmingpool  
+https://github.com/smart-swimmingpool
+Project Smart Swimming Pool  
+https://medium.com/diy-my-smart-home/project-smart-swimmingpool-4c40eb6741f6  
