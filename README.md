@@ -52,7 +52,7 @@ Embedfire-WiFi-esp/ebf_wifi_esp8266_code，在gitee和github上都有，
 https://github.com/open62541/open62541  
 
 ## MQTT broker    
-* MQTTX  
+* EMQ, MQTTX  
 https://github.com/emqx/MQTTX  
 Download the MQTTX server software and install it on the computer, and then configure the MQTT server.  
 https://wiki.seeedstudio.com/Use_MQTT_to_remotely_light_up_LED_lights/  
@@ -67,6 +67,8 @@ https://github.com/eclipse/mosquitto
 kwswitch  
 https://github.com/kerwincui/kwswitch  
 
-* OpenHAB+MQTT+NodeMCU实现远程控制  
+* OpenHAB+MQTT+NodeMCU实现远程控制, use EMQ    
 https://blog.csdn.net/cnbeta1993/article/details/79066919  
 
+* 自己做一个智能家居系统：NodeMCU+MQTT+OpenHAB改造灯开关篇  
+https://augix.me/archives/5804  
