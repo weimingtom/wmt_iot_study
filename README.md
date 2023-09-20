@@ -85,5 +85,6 @@ https://medium.com/diy-my-smart-home/project-smart-swimmingpool-4c40eb6741f6
 * https://gitee.com/in_drama/smart-watch/blob/master/main.c
 * https://gitee.com/in_drama/smart-watch-test-program/blob/master/app/src/main/java/com/example/myapplication/MainActivity.java
 * fastble
+* https://github.com/Jasonchenlijian/FastBle  
 
 
