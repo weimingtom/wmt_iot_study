@@ -77,3 +77,9 @@ https://augix.me/archives/5804
 https://github.com/smart-swimmingpool  
 Project Smart Swimming Pool  
 https://medium.com/diy-my-smart-home/project-smart-swimmingpool-4c40eb6741f6  
+
+## nrf_nus and nrf_nus_c, in nRF5 SDK       
+* A Web Command Line Interface via NUS (Nordic UART Service) using Web Bluetooth.  
+* https://github.com/makerdiary/web-device-cli
+* https://www.nordicsemi.com/Products/Development-software/nRF5-SDK/Download  
+
